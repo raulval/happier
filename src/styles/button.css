@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap');
+
+.botao {
+  outline: none;
+  width: 350px;
+  height: 56px;
+  margin-top: 2rem;
+  border-radius: 10px;
+  border: none;
+  background: #FFD666;
+  color: #765E3A;
+  font-family: 'Nunito', sans-serif;
+  font-size: 22px;
+  font-weight: 800;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.botao:hover {
+  filter: brightness(70%);
+  transition: all 0.2s;
+}
