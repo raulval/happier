@@ -1,10 +1,10 @@
 ## 🚀 Screenshots
 
 <h1 align="center">
-    <img alt="Login" title="Login Screen" src="screenshots/Login.png" width=500 heigth=300 />
-    <img alt="Home" title="Home Screen" src="screenshots/Home.png" width=500 heigth=300 />
-    <img alt="Cadastrar" title="Cadastrar Entidade Screen" src="screenshots/CadastrarEntidade.png" width=500 heigth=300 />
-    <img alt="Dados Entidade" title="Dados Screen" src="screenshots/DadosEntidade.png" width=500 heigth=300 />
+    <img alt="Login" title="Login Screen" src="screenshots/Login.png" width=800 heigth=200 />
+    <img alt="Home" title="Home Screen" src="screenshots/Home.png" width=800 heigth=200 />
+    <img alt="Cadastrar" title="Cadastrar Entidade Screen" src="screenshots/CadastrarEntidade.png" width=800 heigth=200 />
+    <img alt="Dados Entidade" title="Dados Screen" src="screenshots/DadosEntidade.png" width=800 heigth=200 />
 </h1>
 
 ## 💻 Project
